@@ -1,16 +1,5 @@
 # lottery_app
 
-A new Flutter project.
+![Screenshot_1711331445](https://github.com/ammar-stack/lotteryApp/assets/78434776/26c68f07-8b92-4c3a-be68-39f87998c865)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1711331452](https://github.com/ammar-stack/lotteryApp/assets/78434776/fced154b-e345-4319-95bc-edba52e8f8a3)
